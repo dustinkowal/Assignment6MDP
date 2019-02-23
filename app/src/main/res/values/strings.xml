@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment6MDP</string>
+
+    <string name="text_view_n1">John Doe</string>
+    <string name="text_view_p1">612-765-4321</string>
+    <string name="text_view_n2">Ronald McDonald</string>
+    <string name="text_view_p2">612-763-2180</string>
+    <string name="text_view_n3">Jenny</string>
+    <string name="text_view_p3">763-867-5309</string>
+</resources>
